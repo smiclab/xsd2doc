@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<links xmlns="http://titanium.dstc.edu.au/xml/xs3p">
+	<schema file-location="AAS.xsd" docfile-location="../docs/AAS.xsd.html"/>
+	<schema file-location="AAS_ABAC.xsd" docfile-location="../docs/AAS_ABAC.xsd.html"/>
+	<schema file-location="IEC61360.xsd" docfile-location="../docs/IEC61360.xsd.html"/>
+</links>
