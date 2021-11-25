@@ -2,7 +2,7 @@
 
 INPUT_DIR=xsd
 OUTPUT_DIR=docs
-XSLT_FILE=xs3p.xsl
+XSLT_FILE=xs3p/xs3p.xsl
 
 for f in $INPUT_DIR/*.xsd
 do
