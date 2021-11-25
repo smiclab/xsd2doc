@@ -1,10 +1,8 @@
 #!/bin/bash
 
 INPUT_DIR=xsd
-OUTPUT_DIR=htmldoc
-# XSLT_FILE=xs3p.xsl
-XSLT_FILE=xs3p-1.1.5/xs3p.xsl
-
+OUTPUT_DIR=docs
+XSLT_FILE=xs3p.xsl
 
 for f in $INPUT_DIR/*.xsd
 do
